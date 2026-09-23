@@ -1,3 +1,5 @@
+Please Note: This repo may have moved..
+
 <p align="center">
 <a href="https://sozo.framer.website/">
    <img src="https://github.com/user-attachments/assets/bb1dd6b2-e41f-4fb5-b3db-a550bb6e5608" alt="Sozo banner" width="30%">
